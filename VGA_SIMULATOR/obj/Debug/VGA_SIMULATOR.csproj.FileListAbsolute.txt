@@ -1,0 +1,10 @@
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\bin\Debug\VGA_SIMULATOR.exe.config
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\bin\Debug\VGA_SIMULATOR.exe
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\bin\Debug\VGA_SIMULATOR.pdb
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\obj\Debug\VGA_SIMULATOR.csprojAssemblyReference.cache
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\obj\Debug\VGA_SIMULATOR.Form1.resources
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\obj\Debug\VGA_SIMULATOR.Properties.Resources.resources
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\obj\Debug\VGA_SIMULATOR.csproj.GenerateResource.cache
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\obj\Debug\VGA_SIMULATOR.csproj.CoreCompileInputs.cache
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\obj\Debug\VGA_SIMULATOR.exe
+C:\Users\jeand\source\repos\VGA_SIMULATOR\VGA_SIMULATOR\obj\Debug\VGA_SIMULATOR.pdb
